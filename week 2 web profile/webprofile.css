@@ -1,0 +1,32 @@
+body {font-family:Arial, sans-serif;background-color:black;color: #b2adad;text-align: center;padding: 30px;}
+h1 {color: rgb(200, 200, 229);}
+h2 { color: #fbf9f9;}
+p {font-size: 18px;}
+img {border-radius: 50%;}
+ul, ol { display: inline-block;text-align: left;}
+a { color: rgb(249, 249, 249);text-decoration: none;}
+a:hover {text-decoration: underline;}
+
+.header{
+    color:white;
+}
+
+.button{
+    background-color: white;
+ color:black;
+    width:10vw;
+    height:6vh;
+    border-radius: 10px;
+}
+
+.classname{
+    color:rgb(217, 212, 212) ;
+    text-shadow: 6px white ;
+}
+
+.button:hover{
+    color:rgb(0, 0, 0);
+    border: 6px rgb(240, 235, 235) solid;
+    width:12vw;
+    transition:0.6s;
+}

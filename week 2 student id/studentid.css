@@ -1,0 +1,20 @@
+body {font-family:Arial, sans-serif;background-color: #000000;color: #222;text-align: center;padding: 30px;}
+h1 {color: rgb(252, 252, 254);}
+h2 { color: #aa9e9e;}
+p {font-size: 18px;color:white}
+img {border-radius: 50%;}
+.d{
+    display:flex;
+    gap:10px;
+    text-align:center;
+
+}
+.div{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    border:solid white 10px;
+width:60vw;
+height:60vh;
+margin:0 10vw;
+}

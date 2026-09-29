@@ -1,8 +1,0 @@
-title
-header
-nav bar
-main image
-cart
-logo
-buttons
-assistant buttons
