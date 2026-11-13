@@ -51,7 +51,7 @@ def home(request):
                     </thead>
                     <tbody>
                         <tr><td>ST001</td><td>Amaya Perera</td><td>amaya@example.com</td><td>Computer Science</td><td><span class="status">Active</span></td></tr>
-                        <tr><td>ST002</td><td>Kavin Silva</td><td>kavin@example.com</td><td>Business Management</td><td><span class="status">Active</span></td></tr>
+                        <tr><td>ST002</td><td>dafni Silva</td><td>dafni@example.com</td><td>Business Management</td><td><span class="status">Active</span></td></tr>
                         <tr><td>ST003</td><td>Nethmi Fernando</td><td>nethmi@example.com</td><td>Information Technology</td><td><span class="status">Active</span></td></tr>
                     </tbody>
                 </table>
